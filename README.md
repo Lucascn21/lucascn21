@@ -30,27 +30,29 @@ Your README will now be visible on the main page of your repository! -->
     <img src="https://komarev.com/ghpvc/?username=Lucascn21&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
 </p> <br>
 
-<a style="position: sticky;z-index: 999;max-width: 100%;margin-top: 2rem;" href="https://app.daily.dev/Lucascn21"> <img  align='right' src="https://api.daily.dev/devcards/v2/tGm5SCMQBdiLPsiVgOkB6.png?type=default&r=k07" width="350" alt="Lucascn21's Dev Card" /></a>
 
-<h2 align="center" style="
-    text-wrap: nowrap;"> Self-taught, curious, and <img src="assets/flamey.gif" width="30"/>passionate<img src="assets/flamey.gif" width="30"/>about coding!</h2>
 
-* 🌳 I’m currently learning Vanilla JavaScript & React! <br> 
-Actively Going through:
-  - Intense Job-Seeking
-  - Volunteering
-  - Frelancing
-  - College  <br>
+<h2 align="center"> Self-taught, curious, and <img src="assets/flamey.gif" width="30"/>passionate<img src="assets/flamey.gif" width="30"/>about coding!</h2>
+<a href="https://app.daily.dev/Lucascn21"> <img align='right' src="https://api.daily.dev/devcards/v2/tGm5SCMQBdiLPsiVgOkB6.png?type=default&r=k07" width="350" alt="Lucascn21's Dev Card" /></a>
+
+
+* 👓 I’m proactively practicing Javascript and its reasonable landscape🤣 <br>
+  
+* 👨‍💻 Actively Going through:
+  - Intense Job-Seeking.
+  - Volunteering.
+  - Freelancing.
+  - College.  <br>
 
 * 🐾 I’m looking to network and make friends here! <br><br>
 
 * 🌊 2024 Goals: Contribute to Open Source projects and/or Non-Profits. <br><br>
 
-* ☕ Interest: Cats, Coffee, Teaching and Coding. <br><br>
+* ☕ Interest: Cats, Coffee, Mentoring and Coding. <br><br>
 
 * :octocat: Hobbies: Coding, Cooking, Gaming, and 🧉. <br><br>
 
-<h2></h2><br>
+<br><h2></h2><br>
 
 <p align="center"> 
   <img src="assets/nightlife.gif" alt="Lofi Nightlight scene" /> 
