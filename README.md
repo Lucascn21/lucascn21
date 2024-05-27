@@ -32,7 +32,8 @@ Your README will now be visible on the main page of your repository! -->
 
 <a href="https://app.daily.dev/Lucascn21"> <img align='right' src="https://api.daily.dev/devcards/v2/tGm5SCMQBdiLPsiVgOkB6.png?type=default&r=k07" width="350" alt="Lucascn21's Dev Card" /></a>
 
-<h2 align="center"> Self-taught, curious, and <img src="assets/flamey.gif" width="30"/>passionate<img src="assets/flamey.gif" width="30"/>about coding!</h2>
+<h2 align="center" style="
+    text-wrap: nowrap;"> Self-taught, curious, and <img src="assets/flamey.gif" width="30"/>passionate<img src="assets/flamey.gif" width="30"/>about coding!</h2>
 
 * 🌳 I’m currently learning Vanilla JavaScript & React! <br> 
 Actively Going through:
@@ -58,7 +59,7 @@ Actively Going through:
 <div align="center">
 <h2> <strong> Tech I've worked with </strong></h2>
 <img src="https://skillicons.dev/icons?i=java,gitlab,figma,postman,firebase,express,vercel,spring,sequelize,sqlite,tailwind,sass,regex" alt="skills worked with logos"> <br> 	
-<h2> <strong> Actively Learning </strong></h2>
+<h2> <strong> Actively learning </strong></h2>
 <img src="https://skillicons.dev/icons?i=js,nodejs,react,express,mongodb,nextjs,html,css" alt="skills actively learning logos"> <br> 	
 <h2> <strong> Planning to learn / Passively learning </strong></h2>
 <img src="https://skillicons.dev/icons?i=htmx,supabase,tensorflow,ts,prisma,graphql,py" alt="skills planning to learn logos"> <br>
