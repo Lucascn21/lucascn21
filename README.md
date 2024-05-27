@@ -30,7 +30,7 @@ Your README will now be visible on the main page of your repository! -->
     <img src="https://komarev.com/ghpvc/?username=Lucascn21&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
 </p> <br>
 
-<a href="https://app.daily.dev/Lucascn21"> <img align='right' src="https://api.daily.dev/devcards/e7a301739d004f1f99c4ce18c050b111.png?r=d7k](https://api.daily.dev/devcards/v2/tGm5SCMQBdiLPsiVgOkB6.png?type=default&r=k07" width="350" alt="Lucascn21's Dev Card" /></a>
+<a href="https://app.daily.dev/Lucascn21"> <img align='right' src="https://api.daily.dev/devcards/e7a301739d004f1f99c4ce18c050b111.png?r=d7k([https://api.daily.dev/devcards/v2/tGm5SCMQBdiLPsiVgOkB6.png?type=default&r=k07)(https://api.daily.dev/devcards/v2/tGm5SCMQBdiLPsiVgOkB6.png?type=default&r=k07](https://api.daily.dev/devcards/v2/tGm5SCMQBdiLPsiVgOkB6.png?type=default&r=k07)" width="350" alt="Lucascn21's Dev Card" /></a>
 
 <h2 align="center"> Self-taught, curious, and <img src="assets/flamey.gif" width="30"/>passionate<img src="assets/flamey.gif" width="30"/>about coding!</h2>
 
