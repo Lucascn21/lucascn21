@@ -56,10 +56,12 @@ Actively Going through:
 </p>
 
 <div align="center">
-  <h2> <strong> Actively Learning </strong></h2>
-  <img src="https://skillicons.dev/icons?i=bash,git,linux,nim,html,css,js,react" alt="skills actively learning logos"> <br> 
-  <h2> <strong> Plan to Learn </strong></h2>
-  <img src="https://skillicons.dev/icons?i=py,bootstrap,sass,ts,netlify" alt="skills planning to learn logos">
+<h2> <strong> Tech I've worked with </strong></h2>
+<img src="https://skillicons.dev/icons?i=java,gitlab,figma,postman,firebase,express,vercel,spring,sequelize,sqlite,tailwind,sass,regex" alt="skills worked with logos"> <br> 	
+<h2> <strong> Actively Learning </strong></h2>
+<img src="https://skillicons.dev/icons?i=js,nodejs,react,express,mongodb,nextjs,html,css" alt="skills actively learning logos"> <br> 	
+<h2> <strong> Planning to learn / Passively learning </strong></h2>
+<img src="https://skillicons.dev/icons?i=htmx,supabase,tensorflow,ts,prisma,graphql,py" alt="skills planning to learn logos"> <br>
 </div>
 
 <p align="center"><br>
