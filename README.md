@@ -71,14 +71,14 @@ Actively Going through:
   <img src="https://github-profile-trophy.vercel.app/?username=Lucascn21&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
 
    <p>
-    <a href="https://www.codewars.com/users/Lucascn21">
-      <img src="https://github.r2v.ch/codewars?user=Lucascn21&top_languages=true&theme=midnight_blue" height="200" alt="codewar stats" />
+    <a href="https://www.codewars.com/users/lucascn21">
+      <img src="https://github.r2v.ch/codewars?user=lucascn21&top_languages=true&theme=midnight_blue" height="200" alt="codewar stats" />
     </a>
   </p>
 
   <img src="https://github-readme-stats2-olive.vercel.app/api/top-langs/?username=Lucascn21&langs_count=6&card_width=500&bg_color=000000&text_color=0079fa&hide_border=true&layout=compact" alt="Most used languages" /> <br>
 
-  <img src="https://streak-stats.demolab.com?    user=Lucascn21&theme=highcontrast&hide_border=true&border_radius=0&ring=2100FA&background=000000&fire=0079FA&currStreakNum=0079FA&dates=0079FA&sideNums=0079FA&currStreakLabel=0079FA&stroke=0079FA&sideLabels=0079FA" height="150" alt="streaks graph"  />
+  <img src="https://streak-stats.demolab.com?user=Lucascn21&theme=highcontrast&hide_border=true&border_radius=0&ring=2100FA&background=000000&fire=0079FA&currStreakNum=0079FA&dates=0079FA&sideNums=0079FA&currStreakLabel=0079FA&stroke=0079FA&sideLabels=0079FA" height="150" alt="streaks graph"  />
 
   <img src="https://github-readme-stats2-olive.vercel.app/api?username=Lucascn21&show_icons=true&title_color=0079fa&text_color=0079fa&iconcolor=0079fa&hide_border=true&bg_color=000000&border_radius=0&count_private=true&include_all_commits=true" height="150" alt="stats graph"  />
 </div> <br>
