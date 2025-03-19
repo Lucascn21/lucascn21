@@ -39,14 +39,16 @@ Your README will now be visible on the main page of your repository! -->
 * 👓 I’m proactively practicing Javascript and its reasonable landscape🤣 <br>
   
 * 👨‍💻 Actively Going through:
-  - Intense Job-Seeking.
-  - Volunteering.
+  - Work.
   - Freelancing.
   - College.  <br>
 
 * 🐾 I’m looking to network and make friends here! <br><br>
 
-* 🌊 2025 Goals: Achieve a sustainable balance between personal life, professional growth, and studies in 2025. Become a Mentor. <br><br>
+* 🌊 2025 Goals:
+   - Achieve a sustainable balance between personal life, professional growth, and studies in 2025.
+   - Patagonia.
+   - Become a Mentor. <br><br>
 
 * ☕ Interest: Cats, Coffee, Mentoring and Coding. <br><br>
 
