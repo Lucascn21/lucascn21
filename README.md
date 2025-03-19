@@ -46,7 +46,7 @@ Your README will now be visible on the main page of your repository! -->
 
 * 🐾 I’m looking to network and make friends here! <br><br>
 
-* 🌊 2024 Goals: Contribute to Open Source projects and/or Non-Profits. <br><br>
+* 🌊 2025 Goals: Achieve a sustainable balance between personal life, professional growth, and studies in 2025. Become a Mentor. <br><br>
 
 * ☕ Interest: Cats, Coffee, Mentoring and Coding. <br><br>
 
